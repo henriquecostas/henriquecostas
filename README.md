@@ -2,7 +2,7 @@
 
 - ⚙ Currently working on Quality Assurance at [Atlas Technologies](https://github.com/henriquecostas/atlastechnol)
 - 💻 Fullstack programming enthusiast
-- 💬 Ask me about: Tests, Software Quality, Test Automation, Appium, Selenium WebDriver, JavaScript, HTML, CSS, SQL, NodeJS.
+- 💬 Ask me about: Test Process, Test Automation, Selenium WebDriver, JavaScript, HTML, CSS, SQL, NodeJS.
 - <a href="https://linkedin.com/in/henriquecostas"> <img align="center" src="https://img.shields.io/badge/-henriquecostas-05122A?style=flat&logo=linkedin"/></a>
 
 
