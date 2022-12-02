@@ -2,7 +2,7 @@
 
 - ⚙ Currently working as Quality Assurance at [Atlas Technologies](https://github.com/henriquecostas/atlastechnol)
 - 💻 Front-end enthusiast developer
-- 💬 Ask me about: Test Process, Test Automation, Selenium WebDriver, JavaScript, HTML5, CSS3, Vue, React .
+- 💬 Ask me about: Cypress, Selenium WebDriver(JAVA), JavaScript, HTML5, CSS3, Vue, React .
 - <a href="https://linkedin.com/in/henriquecostas" target="_blank"><img align="center" src="https://img.shields.io/badge/-henriquecostas-05122A?style=flat&logo=linkedin"/></a>
 
 
